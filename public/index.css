@@ -1,0 +1,14 @@
+.content {
+	width: 50%;
+	margin: 5% auto;
+	padding: 3%;
+	background-color: #C70039;
+	border: 3px solid #581845;
+	border-radius: 10px;
+	color: #FFC300;
+}
+
+.content p {
+	color: #581845;
+	font-weight: bold;
+}
