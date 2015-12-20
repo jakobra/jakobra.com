@@ -1,14 +1,21 @@
+body {
+	background-color: #900C3F;
+}
+
 .content {
 	width: 50%;
 	margin: 5% auto;
-	padding: 3%;
+	padding: 1% 3% 2% 3%;
 	background-color: #C70039;
-	border: 3px solid #581845;
+	border: 3px solid #FFC300;
 	border-radius: 10px;
-	color: #FFC300;
+	color: #2F2C2C;
+}
+
+.content h1 {
+	color: #581845;
 }
 
 .content p {
-	color: #581845;
 	font-weight: bold;
 }
